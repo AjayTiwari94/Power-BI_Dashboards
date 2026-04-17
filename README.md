@@ -10,7 +10,7 @@ The data represents job postings collected from online platforms (2025 dataset).
 
 ### Files:
 - `job_postings_flat.csv` – Raw job-level dataset  
-- `job_postings_monthly.xlsx` – Aggregated monthly data  
+- `job_postings_monthly.xlsx` – Another file version of data  
 
 ### Key Information:
 - Job roles (Data Analyst, Data Scientist, Data Engineer, etc.)
